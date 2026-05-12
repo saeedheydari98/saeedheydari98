@@ -26,5 +26,5 @@ I build modern, responsive, and scalable web applications.
 
 ### 📫 Connect with me
 
-- Email: [saeedhydri.98@Gmail.com]
+- Email: [saeedheydri.98@Gmail.com]
 - GitHub: you're here 👇
